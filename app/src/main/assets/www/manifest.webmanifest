@@ -1,0 +1,9 @@
+{
+  "name": "Waseer Agri Farm",
+  "short_name": "Waseer Agri",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f7f3",
+  "theme_color": "#176b3a",
+  "description": "Offline farm field, crop, income and expense records."
+}
